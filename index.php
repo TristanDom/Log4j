@@ -13,7 +13,6 @@
     	<input type="text" name="name" placeholder="Ingresa URL">
     	<input type="submit" name="register">
     </form>
-
         <?php 
         include("registrar.php");
         ?>
